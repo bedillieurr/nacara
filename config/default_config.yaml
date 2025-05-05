@@ -1,0 +1,9 @@
+templates:
+  - name: "SQL Injection"
+  - name: "XSS"
+  - name: "CSRF"
+cloud_scan:
+  enabled: true
+waf_bypass:
+  enabled: true
+
